@@ -1,0 +1,4 @@
+﻿  Fibonacci.cpp
+C:\Users\Angel\source\repos\Datos y Algoritmos 2\Fibonacci\Fibonacci.cpp(37): warning C4715: 'EsFibonacci': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Angel\source\repos\Datos y Algoritmos 2\Fibonacci\Fibonacci.cpp(17): warning C4715: 'Fibonacci': no todas las rutas de acceso de control devuelven un valor
+  Fibonacci.vcxproj -> C:\Users\Angel\source\repos\Datos y Algoritmos 2\x64\Debug\Fibonacci.exe
